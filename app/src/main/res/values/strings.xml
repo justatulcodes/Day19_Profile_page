@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Day19_Profile_page</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="profile_image">profile_image</string>
+    <string name="follow">Follow</string>
+</resources>
